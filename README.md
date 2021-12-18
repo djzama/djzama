@@ -1,2 +1,2 @@
-I am typical noname guy who so what he likes.
+I am typical no name guy who do what he likes.
 Stack: Python, C++, Php, C#, PostgreSQL, MongoDB 
